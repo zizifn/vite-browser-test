@@ -1,5 +1,7 @@
 # package.json
 
+For issue: https://github.com/vitejs/vite/issues/7576
+
 In package.json I has browser felid.
 
 ```json
